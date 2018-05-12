@@ -21,6 +21,8 @@ creator:
     - http://en.wikipedia.org/wiki/Camilo_Castelo_Branco
     - http://pt.wikipedia.org/wiki/Camilo_Castelo_Branco
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17927#A-Queda-d-um-Anjo--Romance
 gutenberg_bookshelf: PT Romance
 gutenberg_issued: '2006-03-05'
 gutenberg_type: Text
